@@ -55,3 +55,6 @@ C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Restaurant_Menu\restuarant
 C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Restaurant_Menu\restuarant-menu\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe
 C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Restaurant_Menu\restuarant-menu\asgn4StarterHint\bin\Debug\asgn4StarterHint.pdb
 C:\Users\rosalia\Desktop\SSD\C#\Finalized Assignments\Restaurant_Menu\restuarant-menu\asgn4StarterHint\obj\Debug\asgn4StarterHint.csprojResolveAssemblyReference.cache
+C:\Users\rosalia\Documents\GitHub\restaurant-menu\restuarant-menu\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe.config
+C:\Users\rosalia\Documents\GitHub\restaurant-menu\restuarant-menu\asgn4StarterHint\obj\Debug\asgn4StarterHint.exe
+C:\Users\rosalia\Documents\GitHub\restaurant-menu\restuarant-menu\asgn4StarterHint\obj\Debug\asgn4StarterHint.pdb
